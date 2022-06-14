@@ -117,9 +117,8 @@ I am Mohammed Shahul, a Full stack developer,Who loves to create new innovative 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)
 
 
-<!-- ## :trophy: Git profile Trophies
+## :trophy: Git profile Trophies
 
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mshahulpm&layout=compact&theme=algolia" alt="shahul" /></a> </p>
- -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mshahulpm&theme=darkhub)]
 
 <br>
