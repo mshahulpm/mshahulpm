@@ -24,7 +24,7 @@
 
 Hi there 👋
 
-I am Mohammed Shahul, a Full stack developer,Who loves to create new innovative ideas and tools. Currently working as a Full satack developer.
+I am Mohammed Shahul, A self-taught Full stack developer,Who loves to create new innovative ideas and tools. Currently working as a Full satack developer.
 
 ## 📌 Pinned Repositories
 
