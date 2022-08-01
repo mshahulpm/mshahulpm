@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer🌟.</h3>
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/mshahulpm/mshahulpm)](https://github.com/mshahulpm)
+![Badge](https://visitor-counter-badge.vercel.app/api/mshahulpm/mshahulpm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -119,7 +119,7 @@ I am Mohammed Shahul, A self-taught Full stack developer,Who loves to create new
 
 ## :trophy: Git profile Trophies
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=mshahulpm&theme=darkhub)]
+![trophy](https://github-profile-trophy.vercel.app/?username=mshahulpm&theme=darkhub)
 
 
 <br>
