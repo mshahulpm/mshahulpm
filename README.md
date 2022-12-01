@@ -8,16 +8,16 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-shahul-pm-b225b6205/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="linkedIn" height="30" width="40" /></a>
 	 <a href="https://twitter.com/mshahul_pm" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="twitter" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/mshahulpm" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="hackerrank" height="30" width="40" /></a>
 <a href="https://leetcode.com/Mohammed-Shahul-P-M/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+      alt="Leetcode" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -29,7 +29,7 @@ I am Mohammed Shahul, A self-taught Full stack developer,Who loves to create new
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/mshahulpm/E-commerce-backend">
-  <img align="center" style="margin:1rem 0.5rem;min-height: 60px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mshahulpm&repo=E-commerce-backend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&height=200&langs_count=5" />
+  <img align="center" style="margin:1rem 0.5rem;min-height: 60px;max-width:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mshahulpm&repo=E-commerce-backend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&height=200&langs_count=5" />
 </a>
 <a href="https://github.com/mshahulpm/E-commerce-Store">
   <img align="center" style="margin:1rem 0.5rem;min-height: 100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mshahulpm&repo=E-commerce-Store&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
