@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shahul</h1>
 <h3 align="center">Full stack developer🌟.</h3>
-<br>
+<br> 
 
 [![Visits Badge](https://badges.pufler.dev/visits/mshahulpm/mshahulpm)](https://github.com/mshahulpm)
 
